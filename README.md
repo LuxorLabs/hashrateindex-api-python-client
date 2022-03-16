@@ -17,7 +17,7 @@ To get started, you will need the following basic information:
 from hashrateindex import API
 from resolvers import RESOLVERS
 
-API = API(host = 'https://api.hashrateindex.com/graphql', method = 'POST', org = 'luxor', key = 'KEY')
+API = API(host = 'https://api.hashrateindex.com/graphql', method = 'POST', key = 'KEY')
 RESOLVERS = RESOLVERS(df = False)
 
 resp = API.method(parameters)
