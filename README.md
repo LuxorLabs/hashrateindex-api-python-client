@@ -9,7 +9,7 @@ Feel free to send your projects or questions our way to hashrateindex@luxor.tech
 To get started, you will need the following basic information:
 
 - Endpoint: `https://api.hashrateindex.com/graphql`
-- API Key: Reach out to `hashrateindex@luxor.tech` to get an API Key. 
+- API Key: Hashrate Index Silver tier and above members gain enhanced access, including an API key for real-time data. For special requests or custom solutions, contact us at hashrateindex@luxor.tech.
 
 **Code Snippet**
 
